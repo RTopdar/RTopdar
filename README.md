@@ -32,7 +32,7 @@
   <a href="https://discord.com/users/848086674314756126" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="rounak2002topdar@gmail.com" target="_blank">
+  <a href="mailto:rounak2002topdar@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Proton&logo=gmail&label=&color=6C4BFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rounaktopdar/" target="_blank">
