@@ -47,10 +47,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-<br><br>
 
-
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 <br><br>
 
