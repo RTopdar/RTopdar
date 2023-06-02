@@ -55,10 +55,10 @@
 
 <br><br>
 
-![](https://github-profile-trophy.vercel.app/?username=RTopdar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=RTopdar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br><br>
-
+ -->
 
 ![Snake animation](https://github.com/RTopdar/RTopdar/blob/output/github-contribution-grid-snake.svg)
 
