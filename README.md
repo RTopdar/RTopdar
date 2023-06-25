@@ -43,7 +43,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+<br><br>
+[![Rounak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RTopdar)](https://github.com/RTopdar/github-readme-activity-graph)
 <br><br>
 
 <br clear="both">
