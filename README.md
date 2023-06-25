@@ -44,7 +44,9 @@
   </a>
 </div>
 <br><br>
-[![Rounak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RTopdar)](https://github.com/RTopdar/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RTopdar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br><br>
 
 <br clear="both">
