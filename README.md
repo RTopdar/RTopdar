@@ -69,7 +69,7 @@
 
  
 
-![Snake animation](https://github.com/RTopdar/RTopdar/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/RTopdar/RTopdar/output/snake.svg" alt="Snake animation" />
 
 <br><br>
 
