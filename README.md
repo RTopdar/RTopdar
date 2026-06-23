@@ -7,7 +7,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RTopdar&label=Profile%20views&color=0e75b6&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/RTopdar?style=flat-square&logo=github&logoColor=white&color=0e75b6)](https://github.com/RTopdar?tab=followers)
 
-[🔗 Resume](https://github.com/RTopdar) • [💼 LinkedIn](https://linkedin.com/in/rounaktopdar) • [📧 Email](mailto:rounak2002topdar@gmail.com) • [🌐 LinkFree](https://linkfree.io/RTopdar)
+[🔗 Resume](https://drive.google.com/file/d/1aMOiGoRoqfUSAqyrJSJx40F25zu3V60O/view?usp=sharing) •
+[💼 LinkedIn](https://www.linkedin.com/in/rtopdar/) •
+[📧 Email](mailto:rounak2002topdar@proton.me) •
+[🌐 LinkFree](https://linkfree.io/RTopdar)
 
 </div>
 
