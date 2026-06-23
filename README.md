@@ -9,8 +9,7 @@
 
 [🔗 Resume](https://drive.google.com/file/d/1aMOiGoRoqfUSAqyrJSJx40F25zu3V60O/view?usp=sharing) •
 [💼 LinkedIn](https://www.linkedin.com/in/rtopdar/) •
-[📧 Email](mailto:rounak2002topdar@proton.me) •
-[🌐 LinkFree](https://linkfree.io/RTopdar)
+[📧 Email](mailto:rounak2002topdar@proton.me) 
 
 </div>
 
@@ -117,14 +116,14 @@ Currently **GenAI Engineer & Data Consultant at EY Global Delivery Services LLP*
 
 <div align="center">
 
-| Certification | Issuer | Date |
-|---|---|---|
-| **Azure AI Apps and Agents Developer Associate** (AI-103) | Microsoft | 2026 |
-| **Azure Developer Associate** (AZ-204) | Microsoft | 2026 |
-| **Azure AI Fundamentals** (AI-900) | Microsoft | 2026 |
-| **Azure Fundamentals** (AZ-900) | Microsoft | 2025 |
-| **GitHub Copilot Certification** (GH-300) | GitHub | 2026 |
-| **GitHub Foundations** (GH-900) | GitHub | 2026 |
+| Certification | Issuer | Date | Credly
+|---|---|---|---|
+| **Azure AI Apps and Agents Developer Associate** (AI-103) | Microsoft | 2026 | URL
+| **Azure Developer Associate** (AZ-204) | Microsoft | 2026 | [URL](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/7DBFE9C5F4EF9C5E?sharingId=A172CAF2E331B36)
+| **Azure Agentic AI Fundamentals** (AI-901) | Microsoft | 2026 | URL
+| **Azure Fundamentals** (AZ-900) | Microsoft | 2025 | [URL](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/4DDD2701CE52B57B?sharingId=A172CAF2E331B36)
+| **GitHub Copilot Certification** (GH-300) | GitHub | 2026 | [URL](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/638C6B0EBDB6FBBF?sharingId=A172CAF2E331B36)
+| **GitHub Foundations** (GH-900) | GitHub | 2026 | [URL](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/34BA532001B2617C?sharingId=A172CAF2E331B36)
 
 </div>
 
@@ -150,7 +149,7 @@ Currently **GenAI Engineer & Data Consultant at EY Global Delivery Services LLP*
 - Fine-tuning strategies for domain-specific LLMs (LoRA, QLoRA)
 - LLM security & robustness (prompt injection defense, jailbreak detection)
 - Real-time AI monitoring at enterprise scale
-- German language proficiency (B2 target by 2026)
+- German language proficiency (B2 target by 2027)
 
 ---
 
@@ -161,7 +160,6 @@ Currently **GenAI Engineer & Data Consultant at EY Global Delivery Services LLP*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounaktopdar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounak2002topdar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RTopdar)
-[![LinkFree](https://img.shields.io/badge/LinkFree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linkfree.io/RTopdar)
 
 </div>
 
