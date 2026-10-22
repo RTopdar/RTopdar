@@ -152,6 +152,21 @@ flowchart LR
 | **EY Global Delivery Services LLP** | AI & Data Consultant, Technology Consulting — leading GenAI platform builds | Feb 2025 – Present |
 | **AlphaDnA / Gnosis Lab** | Associate Software Developer · Full Stack Application Consultant | Aug 2023 – Feb 2025 |
 
+<details open>
+<summary><b>Highlights from EY GDS</b></summary>
+<br/>
+
+- 🏗️ Architected a **PDLC orchestration platform** on GitHub Copilot CLI SDK + Claude Agent SDK, from intent → BRD/TRD → HLD/LLD → work items
+- ⚡ LLM-wiki knowledgebase (Google OKF + Agent Skills) cut incident resolution to **3–10 min** for L1/L2/L3 engineers
+- 🎙️ Shipped a **no-code voice multi-agent platform** (OpenAI Agents SDK + Realtime API + Twilio IVR) for retail, e-commerce & healthcare
+- 🧩 Built a **model-agnostic agentic workflow builder** on Microsoft Agent Framework with MCP + A2A and per-department isolated vector DBs
+- 🧪 Evals & observability across platforms: **LLM-as-a-judge**, Langfuse, App Insights, PII redaction, token budgets with circuit breakers
+- 📄 Re-architected a compliance document processor into **microservices** on Azure Durable Functions with SSE streaming
+
+<sub>Deep dives in [🚀 Flagship Work](#-flagship-work) above.</sub>
+
+</details>
+
 <details>
 <summary><b>Highlights from AlphaDnA / Gnosis Lab</b></summary>
 <br/>
