@@ -1,185 +1,238 @@
-# 👋 Rounak Topdar
-
-**GenAI Engineer | Multi-Agent Systems Architect | LangGraph · FastAPI · Azure**
-
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RTopdar&label=Profile%20views&color=0e75b6&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/RTopdar?style=flat-square&logo=github&logoColor=white&color=0e75b6)](https://github.com/RTopdar?tab=followers)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0d7377,100:14ffec&height=200&section=header&text=Rounak%20Topdar&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20GenAI%20Engineer%20%E2%80%A2%20Multi-Agent%20Systems%20Architect&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Rounak Topdar — Senior GenAI Engineer"/>
 
-[🔗 Resume](https://drive.google.com/file/d/1aMOiGoRoqfUSAqyrJSJx40F25zu3V60O/view?usp=sharing) •
-[💼 LinkedIn](https://www.linkedin.com/in/rtopdar/) •
-[📧 Email](mailto:rounak2002topdar@proton.me) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=14FFEC&center=true&vCenter=true&width=720&lines=Building+production-grade+multi-agent+LLM+systems;Agentic+workflows+%E2%80%A2+RAG+%E2%80%A2+Harness+engineering;LLM-as-a-judge+evals+%2B+end-to-end+observability;Shipping+enterprise+GenAI+on+Azure+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rtopdar/"><img src="https://img.shields.io/badge/LinkedIn-rtopdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rounak2002topdar@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1aMOiGoRoqfUSAqyrJSJx40F25zu3V60O/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-14FFEC?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume"/></a>
+<img src="https://komarev.com/ghpvc/?username=RTopdar&style=for-the-badge&color=0d7377&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🚀 About
+## 🧠 About Me
 
-GenAI Engineer with **3+ years** building **production-grade, multi-agent LLM systems** for enterprise clients. I specialize in designing robust agentic workflows, implementing RAG architectures, and shipping observability-first AI solutions on Azure cloud infrastructure.
+```python
+class RounakTopdar:
+    role       = "Senior GenAI Engineer @ EY GDS (AI & Data Consultant)"
+    based_in   = "Kolkata, India 🇮🇳"
+    experience = "3+ years shipping production-grade agentic AI"
+    domains    = ["Media Compliance", "Banking", "Risk Consulting", "Customer Support"]
 
-Currently **GenAI Engineer & Data Consultant at EY Global Delivery Services LLP**, designing and deploying no-code AI platforms for customer support, document processing, and enterprise workflow automation across banking, e-commerce, healthcare, and compliance domains.
+    focus = {
+        "agentic_ai":    ["Multi-agent orchestration", "MCP", "A2A", "Harness engineering"],
+        "retrieval":     ["RAG over SQL/NoSQL vector stores", "Vectorless RAG", "LLM-Wiki / OKF"],
+        "reliability":   ["LLM-as-a-judge evals", "Langfuse", "Guardrails", "HITL review gates"],
+        "cloud":         ["Azure Container Apps", "Durable Functions", "App Insights", "CI/CD"],
+    }
 
----
+    def philosophy(self):
+        return "No black boxes. Every agent instrumented, evaluated and shipped."
+```
 
-## 💼 Professional Experience
-
-### **EY Global Delivery Services LLP** — GenAI Engineer & Data Consultant
-*February 2025 – Present*
-
-**I specialize in:**
-- **No-Code Voice Multi-Agent Platforms** — Context-aware voice agents with distinct personalities, IVR integration via Twilio, human-in-the-loop workflows, session memory persistence, and cost-aware token budgeting
-- **Multi-Agent Workflow Builders** — Enterprise-grade agentic platforms supporting MCP server integrations, A2A communication, model-agnostic LLM provider switching, isolated vector databases per department, and three-tier portal architectures
-- **Compliance Document Processing** — Microservice-based document processors using MCP clients, Azure Durable Functions orchestration, real-time SSE streaming, and compliance tooling integration
-- **End-to-End Observability** — Langfuse evaluation engines, LLM-as-a-judge validation, post-call sentiment analysis, custom observability platforms tracking per-agent performance and flow visualization
-- **Production Hardening** — PII detection & redaction, harmful content filtering, LLM output quality verification, automated circuit breakers, session affinity management, horizontal autoscaling on Azure Container Apps
-
-### **AlphaDnA / Gnosis Lab** — Full Stack Application Consultant
-*August 2023 – February 2025*
-
-**I have experience building:**
-- **Asset Management Platforms** — Centralized web applications with secure authentication (Okta OIDC), multi-level access control, audit logging systems, and 50%+ API performance optimization
-- **E-Commerce Product Discovery** — React-based product catalogs with Python REST APIs, vector similarity search using embedding-based recommendations (Milvus DB), and vector RAG for customer-facing personalization
-- **Document Management & Translation Tools** — Firebase-backed document pipelines, passwordless authentication via Google SSO, and end-to-end document upload, processing, and retrieval workflows
-- **Cloud Infrastructure & DevOps** — Automated deployment pipelines (GCP), full-stack migrations from GCP to AWS, and containerization strategies
+I turn ambiguous business problems into **deployed, measurable GenAI systems** — from architecture and agent design to evaluation pipelines and cloud rollout.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Flagship Work
 
-### **AI & LLM Frameworks**
-![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI APIs](https://img.shields.io/badge/OpenAI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Fw-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<details open>
+<summary><b>🏗️ Full-Scale PDLC Orchestration Platform</b> — GitHub Copilot CLI SDK + Claude Agent SDK</summary>
+<br/>
 
-### **Agent Protocols & Tooling**
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-1F2937?style=for-the-badge)
-![A2A](https://img.shields.io/badge/Agent--to--Agent-1F2937?style=for-the-badge)
-![Temporal](https://img.shields.io/badge/Temporal-00ADD8?style=for-the-badge&logo=temporal&logoColor=white)
+An end-to-end **Product Development Lifecycle** platform where PMs, architects and developers collaborate through *markdown-as-source-of-truth* documents — driven by a dual AI orchestration layer.
 
-### **Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+```mermaid
+flowchart LR
+    U([👤 PM / Architect / Dev]) --> O{{Orchestration Layer<br/>Copilot CLI SDK ⇄ Claude Agent SDK}}
+    O --> S1[Intent Gathering] --> S2[BRD / TRD] --> S3[HLD / LLD] --> S4[Work Items]
+    S4 -->|HITL review gate| K[(Jira / Azure Boards / Slack)]
+    O -.lifecycle hooks.-> E[🧪 LLM-as-a-Judge<br/>Eval Engine]
+    O -.-> W[(📚 LLM-Wiki KB<br/>Google OKF + Agent Skills)]
+```
 
-### **Data & Vector Stores**
-![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00B8D4?style=for-the-badge)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+- 🔒 **Secure, isolated agent instances** per team/session with strict tenant & data isolation
+- 🧪 Custom **eval engines** on lifecycle event hooks — tool-call monitoring + LLM-as-a-judge at every stage
+- ✋ **Human-in-the-loop gates** before docs become tracked work items
+- ⚡ LLM-wiki knowledgebase cut incident resolution to **3–10 min** for L1/L2/L3 engineers
 
-### **Data Validation & Serialization**
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
-![SQLModel](https://img.shields.io/badge/SQLModel-336791?style=for-the-badge)
+</details>
 
-### **LLM Evaluation & Observability**
-![Langfuse](https://img.shields.io/badge/Langfuse-1F2937?style=for-the-badge)
-![LLM%20as%20Judge](https://img.shields.io/badge/LLM%20as%20Judge-1F2937?style=for-the-badge)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F2702A?style=for-the-badge&logo=grafana&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<details>
+<summary><b>🎙️ No-Code Voice Multi-Agent Platform</b> — Enterprise Customer Support</summary>
+<br/>
 
-### **Cloud & Infrastructure**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure Container Apps](https://img.shields.io/badge/Container%20Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Durable Functions](https://img.shields.io/badge/Durable%20Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+- Context-aware voice agents (OpenAI Agents SDK + Realtime API) across **retail, e-commerce & healthcare**, with **Twilio IVR** and HITL escalation on low confidence
+- Multi-layered memory: in-session, cross-session summary, per-user long-term
+- Observability via **App Insights + structlog + Langfuse**, sentiment analysis, **Temporal**-orchestrated summarisation
+- PII redaction, harmful-content filtering, output verification; per-user **token budgets with circuit breakers**
+- Stateless backend on **Azure Container Apps** with session affinity & horizontal autoscaling
 
-### **Frontend**
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</details>
 
-### **Developer Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<details>
+<summary><b>🧩 No-Code Agentic Workflow Builder</b> — Enterprise Departments</summary>
+<br/>
+
+- Cross-department multi-agent workflows on **Microsoft Agent Framework**, model-agnostic (incl. local / fine-tuned LLMs)
+- **MCP servers + A2A** interop with per-department isolated vector DBs
+- Smart orchestrator handoff for sub-agent delegation; operator HITL portal
+- Three-portal architecture (admin / operator / end-user) on microservices with automated failover
+
+</details>
+
+<details>
+<summary><b>📄 Marketing Compliance Document Processing</b></summary>
+<br/>
+
+- Re-architected a monolith into **microservices** for independent deployment & targeted scaling
+- Document processor as an **MCP client** to compliance tooling servers; long-running pipelines on **Azure Durable Functions** with **SSE** progress streaming
+
+</details>
 
 ---
 
-## 🎓 Certifications
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Certification | Issuer | Date | Credly
-|---|---|---|---|
-| **Azure AI Apps and Agents Developer Associate** (AI-103) | Microsoft | 2026 | URL
-| **Azure Developer Associate** (AZ-204) | Microsoft | 2026 | [URL](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/7DBFE9C5F4EF9C5E?sharingId=A172CAF2E331B36)
-| **Azure Agentic AI Fundamentals** (AI-901) | Microsoft | 2026 | URL
-| **Azure Fundamentals** (AZ-900) | Microsoft | 2025 | [URL](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/4DDD2701CE52B57B?sharingId=A172CAF2E331B36)
-| **GitHub Copilot Certification** (GH-300) | GitHub | 2026 | [URL](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/638C6B0EBDB6FBBF?sharingId=A172CAF2E331B36)
-| **GitHub Foundations** (GH-900) | GitHub | 2026 | [URL](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/34BA532001B2617C?sharingId=A172CAF2E331B36)
+**🤖 Agentic AI & LLM Frameworks**
+
+<img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot_CLI_SDK-181717?style=flat-square&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Agent_Framework-5E5E5E?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+
+**🔌 Protocols · Context · Evals**
+
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
+<img src="https://img.shields.io/badge/A2A-0d7377?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square&logo=langfuse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white"/>
+
+**⚙️ Languages · Backend · Frontend**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,flask,nodejs,express,react,nextjs&perline=9" alt="languages and frameworks"/>
+
+**☁️ Cloud · Data · DevOps**
+
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,mongodb,firebase,git,githubactions,linux&perline=9" alt="cloud and devops"/>
+
+**🧑‍💻 Coding Agents I work with daily**
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot_CLI-181717?style=flat-square&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCode-333333?style=flat-square"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 💼 Experience
+
+| 🏢 Company | 🎯 Role | 📅 Period |
+|---|---|---|
+| **EY Global Delivery Services LLP** | AI & Data Consultant, Technology Consulting — leading GenAI platform builds | Feb 2025 – Present |
+| **AlphaDnA / Gnosis Lab** | Associate Software Developer · Full Stack Application Consultant | Aug 2023 – Feb 2025 |
+
+<details>
+<summary><b>Highlights from AlphaDnA / Gnosis Lab</b></summary>
+<br/>
+
+- 📈 Asset-visualization platform (MongoDB + Express.js) → **+20% decision speed**, **−50% API response time**
+- 🔐 Okta OIDC auth with multi-level access control + audit logging
+- ☁️ GCP deployment pipelines and a **zero-disruption migration to AWS**
+- 🛍️ React product catalog with Python REST APIs + **Milvus** embedding-based recommendations
+- 📄 Legal document translation platform on Firebase with Google SSO passwordless auth
+
+</details>
+
+---
+
+## 🏅 Certifications
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RTopdar&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+| Certification | Issuer |
+|---|---|
+| 🤖 Azure AI Apps and Agents Developer Associate (**AI-103**) | Microsoft |
+| 🧠 Azure Agentic AI Fundamentals (**AI-901**) | Microsoft |
+| ⚡ [Azure Developer Associate (**AZ-204**)](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/7DBFE9C5F4EF9C5E?sharingId=A172CAF2E331B36) | Microsoft |
+| ☁️ [Azure Fundamentals (**AZ-900**)](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/4DDD2701CE52B57B?sharingId=A172CAF2E331B36) | Microsoft |
+| 🧱 Databricks Certified Generative AI Engineer Associate | Databricks |
+| 🐙 [GitHub Copilot (**GH-300**)](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/638C6B0EBDB6FBBF?sharingId=A172CAF2E331B36) | GitHub |
+| 🌱 [GitHub Foundations (**GH-900**)](https://learn.microsoft.com/api/credentials/share/en-gb/RounakTopdar-6363/34BA532001B2617C?sharingId=A172CAF2E331B36) | GitHub |
+| 📮 30 Days of Postman | Postman |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RTopdar&layout=compact&theme=dark&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RTopdar&theme=dark&border=0)
+🎓 **B.Tech, Computer Science & Engineering** — University of Engineering and Management, Kolkata (2019–2023) · GPA 8.36 / 10
 
 </div>
 
 ---
 
-## 🌱 Currently Learning & Exploring
-
-- Advanced RAG architectures (Hybrid Search, Query Routing, Dynamic Context Windows)
-- Fine-tuning strategies for domain-specific LLMs (LoRA, QLoRA)
-- LLM security & robustness (prompt injection defense, jailbreak detection)
-- Real-time AI monitoring at enterprise scale
-- German language proficiency (B2 target by 2027)
-
----
-
-## 🔗 Connect
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounaktopdar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounak2002topdar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RTopdar)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RTopdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=contribs" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTopdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,scss,jupyter%20notebook" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=RTopdar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+
 
 </div>
 
 ---
 
-## 🎯 Key Strengths
+## 🌱 Currently Exploring
 
-✅ **Production-Grade Architecture** — Design systems that scale, not prototypes  
-✅ **End-to-End Ownership** — From research to evaluation to deployment  
-✅ **Enterprise Consulting** — Speak the language of stakeholders and engineers  
-✅ **Observability First** — No black boxes; every system is instrumented  
-✅ **RAG & Context Engineering** — Build smart systems that work with real data  
-✅ **Cloud-Native Thinking** — Azure, microservices, containers, serverless  
+- 🔍 Advanced RAG — hybrid search, query routing, dynamic context windows
+- 🧬 Domain fine-tuning with LoRA / QLoRA
+- 🛡️ LLM security — prompt-injection defence & jailbreak detection
+- 📡 Real-time AI monitoring at enterprise scale
+- 🇩🇪 German — working toward B2
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RTopdar/RTopdar/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RTopdar/RTopdar/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/RTopdar/RTopdar/output/github-contribution-grid-snake.svg"/>
+</picture>
+</div>
 
 ---
 
 <div align="center">
 
-**Last updated: June 2026** • Always learning, always shipping
+### 🤝 Let's build production-grade GenAI together
 
-*Looking to collaborate on production-grade GenAI systems? Let's talk.*
+<a href="https://www.linkedin.com/in/rtopdar/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rounak2002topdar@gmail.com"><img src="https://img.shields.io/badge/Drop_a-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<sub>⚡ Always learning, always shipping ⚡</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14ffec,50:0d7377,100:0f2027&height=110&section=footer" width="100%"/>
 
 </div>
